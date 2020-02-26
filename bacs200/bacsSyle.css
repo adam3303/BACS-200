@@ -1,7 +1,13 @@
 body {
-    background-color: aqua ;
+    background-color: turquoise;
 }
 h1 {
-    color: white;
-    
+    color: coral;
+    background-color: teal;
+    border: solid 1px black;
+}
+h2{
+    background-color: teal;
+    color: coral;
+    border: solid 1px black;
 }
