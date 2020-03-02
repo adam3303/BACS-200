@@ -1,0 +1,26 @@
+body {
+    border: solid 3px black;
+    background-color: black;
+    
+}
+
+header {
+    border: solid 3px blue;
+    background-color: lightblue;
+    text-align: center;
+    background-color: white;
+    
+}
+
+footer {
+    color: white;
+    
+   
+}
+
+main {
+    border: solid 3px yellow;
+    background-color: white;
+
+    
+}
