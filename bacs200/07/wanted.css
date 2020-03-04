@@ -1,26 +1,36 @@
-body {
-    border: solid 3px black;
-    background-color: black;
-    
-}
-
 header {
-    border: solid 3px blue;
-    background-color: lightblue;
+    border: solid 5px teal;
+    background-color: darkgray;
     text-align: center;
-    background-color: white;
-    
+    font-family: Bernard MT Condensed;
+    border-radius: 25px;
+    width: 900px;
+    margin: auto;
 }
 
-footer {
-    color: white;
-    
-   
+body {
+    background-color: black;
 }
 
 main {
-    border: solid 3px yellow;
-    background-color: white;
+    border: solid 3px teal;
+    background-color: darkgrey;
+    font-family: Bernard MT Condensed;
+    border-radius: 25px;
+    width: 900px;
+    margin: auto;
+    margin-top: 25px;
+}
 
-    
+h1 {
+    font-size: 50px;
+    text-align: center
+}
+
+aside {
+    background-color: darkgrey;
+    border: solid 2px teal;
+    padding-right: 200px;
+    float: right;
+
 }
